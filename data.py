@@ -1,0 +1,5 @@
+url = "https://prsindia.org/"
+covid19link_xpath = "/html/body/div[1]/div/div[2]/div/nav/div[1]/ul/li[8]/a"
+noofcase_xpath = "/html/body/div[3]/div[2]/aside/div/section/ul/li[3]/a"
+download_xl_xpath = "/html/body/div[3]/div[2]/section/div[2]/section/div/div[2]/div[1]/a"
+statewise_covid_table_xpath = "/html/body/div[3]/div[2]/section/div[2]/section/div/div[4]/div[2]/div/table"
